@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_fuxi.mk
+    $(LOCAL_DIR)/lmodroid_fuxi.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_fuxi-eng \
-    lineage_fuxi-user \
-    lineage_fuxi-userdebug
+    lmodroid_fuxi-eng \
+    lmodroid_fuxi-user \
+    lmodroid_fuxi-userdebug
